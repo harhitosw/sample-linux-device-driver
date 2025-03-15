@@ -14,4 +14,4 @@ Inject Driver in Kernel using :
 
 `sudo insmod ldd.ko`
 
-When `user_space.py` is ran it tries reading from Driver file which is created and there a acknowledgement message in seen.
+When `user_space.py` is ran it tries reading from Driver file which is created and there a acknowledgement message is seen.
